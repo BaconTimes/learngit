@@ -5,3 +5,4 @@ remote
 branch test
 Creating a new branch is quick and simple.
 dev change 1
+Dev change 2
